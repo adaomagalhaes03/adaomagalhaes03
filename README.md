@@ -8,7 +8,7 @@
  
  ![Adão Magalhães GitHub stats](https://github-readme-stats.vercel.app/api?username=adaomagalhaes03&show_icons=true&theme=dracula)
   <div>
-  <img src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" />
+  <img src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" width="50" height="50" />
 </div>
 
  ### Tecnologias que uso no meu dia
