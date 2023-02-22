@@ -7,6 +7,9 @@
  
  
  ![Adão Magalhães GitHub stats](https://github-readme-stats.vercel.app/api?username=adaomagalhaes03&show_icons=true&theme=dracula)
+  <div>
+  <img src="https://camo.githubusercontent.com/85c4b64f362eb76567529b07012ee34ee4d036c9c015e440f5ad42578eb32c98/68747470733a2f2f6d656469612e67697068792e" />
+</div>
 
  ### Tecnologias que uso no meu dia
 
